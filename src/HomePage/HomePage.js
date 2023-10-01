@@ -32,17 +32,7 @@ function HomePage() {
             </p>
         </section>
 
-        <section className="text-box">
-            <h1>Chart</h1>
-            <p>
-                <canvas id="myChart" width="400" height="400"></canvas>
-            </p>
-        </section>
-
-        <section className="text-box">
-            <h1 tabIndex="26">D3JS Donut Chart</h1>
-            <div id="d3DonutChart"></div>
-        </section>
+     
 
     </div>
 
